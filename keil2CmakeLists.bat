@@ -10,7 +10,7 @@ setlocal
 :: #  (Pre-filled with the path you provided)                       #
 :: #                                                                #
 :: ##################################################################
-set "SOURCE_PATH=D:\Software\Green\Convert\keil2CmakeLists\ProjectConverter-master"
+set "SOURCE_PATH=D:\Software\Green\Convert\keil2CMakeLists\ProjectConverter-master"
 
 
 :: --- Script Body Starts ---
